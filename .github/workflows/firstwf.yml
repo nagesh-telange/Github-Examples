@@ -1,4 +1,4 @@
-name:First WF
+name: firstwf
 on:
   schedule:
     - cron: '*/5 * * * *'
